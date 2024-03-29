@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tukeshkumar17&label=Profile%20views&color=0e75b6&style=flat" alt="tukeshkumar17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tukeshkumar17" alt="tukeshkumar17" /></a> </p>
 
-- 🔭 I’m currently working on [Full flashed shop management system.](//)
+- 🔭 I’m currently working on [Full flashed shop management system.]( )
 
 - 🌱 I’m currently learning **Django .**
 
-- 👨‍💻 All of my projects are available at [//](//)
+- 👨‍💻 All of my projects are available at [ ]( )
 
 - 📫 How to reach me **tukeshkumar1703@gmail.com**
 
