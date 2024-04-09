@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tukeshkumar17.github.io/projects](https://tukeshkumar17.github.io/projects)
 
-- 💬 Ask me about **Django , tkinter**
+- 💬 Ask me about **Django , Python**
 
 - 📫 How to reach me **tukeshkumar1703@gmail.com**
 
